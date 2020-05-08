@@ -3,7 +3,6 @@
 Simple weather app.
 
 Developing a cross-platform app using Expo.
-\*not web app.
 
 ## Preview
 
