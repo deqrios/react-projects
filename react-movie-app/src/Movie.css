@@ -1,0 +1,22 @@
+.movie {
+    margin-bottom: 70px;
+}
+
+.movie img {
+    margin-top: 40px;
+}
+
+.movieTitle {
+    color: #414234;
+}
+
+.movieYear {
+    color: navajowhite;
+}
+
+.movieSummary {
+    width: 60%;
+    height: 60%;
+    border-bottom: 1.5px solid darkgray;
+    padding: 10px 0;
+}

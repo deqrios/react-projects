@@ -1,0 +1,22 @@
+{
+  "name": "react-movie-app-2",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "0.9.5",
+    "axios": "^0.19.2",
+    "prop-types": "^15.7.2",
+    "gh-pages": "2.2.0",
+    "react-router-dom":"5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
+    "predeploy": "npm run build"
+  },
+    "homepage": "https://Deqrios.github.io/react-movie-app"
+}
